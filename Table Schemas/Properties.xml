@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="Properties.xsd" generated="2014-10-20T09:22:16">
+<Properties>
+<PropertyId>1</PropertyId>
+<PropertyName>Action Log - File Path</PropertyName>
+<PropertyRegKey>LogFilePath</PropertyRegKey>
+</Properties>
+<Properties>
+<PropertyId>2</PropertyId>
+<PropertyName>Action Log - Reporting Type</PropertyName>
+<PropertyRegKey>LogReportingType</PropertyRegKey>
+<DefaultValue>File</DefaultValue>
+</Properties>
+<Properties>
+<PropertyId>3</PropertyId>
+<PropertyName>Error Log - Email Error</PropertyName>
+<PropertyRegKey>ErrorLogEmailError</PropertyRegKey>
+<DefaultValue>False</DefaultValue>
+</Properties>
+<Properties>
+<PropertyId>4</PropertyId>
+<PropertyName>Error Log - Email Recipients</PropertyName>
+<PropertyRegKey>ErrorLogEmailRecipients</PropertyRegKey>
+<DefaultValue>danny.fraser@woodmac.com</DefaultValue>
+</Properties>
+<Properties>
+<PropertyId>5</PropertyId>
+<PropertyName>Error Log - File Path</PropertyName>
+<PropertyRegKey>ErrorLogFilePath</PropertyRegKey>
+</Properties>
+<Properties>
+<PropertyId>6</PropertyId>
+<PropertyName>Error Log - Reporting Type</PropertyName>
+<PropertyRegKey>ErrorLogReportingType</PropertyRegKey>
+<DefaultValue>File</DefaultValue>
+</Properties>
+<Properties>
+<PropertyId>7</PropertyId>
+<PropertyName>Application Name</PropertyName>
+<DefaultValue>Cost Of Supply Calculator</DefaultValue>
+</Properties>
+<Properties>
+<PropertyId>8</PropertyId>
+<PropertyName>Live Path</PropertyName>
+</Properties>
+<Properties>
+<PropertyId>9</PropertyId>
+<PropertyName>Release Version</PropertyName>
+<DefaultValue>0.1</DefaultValue>
+</Properties>
+<Properties>
+<PropertyId>10</PropertyId>
+<PropertyName>Error Log - Handle Silently</PropertyName>
+<PropertyRegKey>ErrorLogSilent</PropertyRegKey>
+<DefaultValue>False</DefaultValue>
+</Properties>
+<Properties>
+<PropertyId>11</PropertyId>
+<PropertyName>Back End Path</PropertyName>
+<PropertyRegKey>BackEndPath</PropertyRegKey>
+<DefaultValue>D:\Workspace\Cost Of Supply Calculator\New Version\Cosc_BE.mdb</DefaultValue>
+</Properties>
+<Properties>
+<PropertyId>12</PropertyId>
+<PropertyName>Support Manual Location</PropertyName>
+<PropertyRegKey>SupportManualPath</PropertyRegKey>
+</Properties>
+</dataroot>
